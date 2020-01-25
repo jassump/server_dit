@@ -1,0 +1,12 @@
+port=8888
+logLevel=verbose
+sslEnabled=false
+sslStoreType=
+sslStorePassword=
+sslKeyPassword=
+sslStoreFile=
+mysqlHost=localhost
+mysqlPort=3306
+mysqlUser=root
+mysqlPass=
+mysqlDatabase=bobba
