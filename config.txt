@@ -1,4 +1,4 @@
-port=8888
+port=1232
 logLevel=verbose
 sslEnabled=false
 sslStoreType=
@@ -8,5 +8,5 @@ sslStoreFile=
 mysqlHost=localhost
 mysqlPort=3306
 mysqlUser=root
-mysqlPass=
-mysqlDatabase=bobba
+mysqlPass=vertrigo
+mysqlDatabase=db
