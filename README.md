@@ -13,7 +13,7 @@ This repo features a compatible [bobba_client](https://github.com/Josedn/bobba_c
 * Console  
 
 ## Requirements
-* Maven
+* Maven.hjklj
 * Java 8
 * MySQL server
   
